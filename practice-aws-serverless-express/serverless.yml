@@ -1,4 +1,4 @@
-service: practice-serverless-lambda
+service: practice-aws-serverless-express
 
 provider:
   name: aws
