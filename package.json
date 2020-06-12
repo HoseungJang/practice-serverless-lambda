@@ -14,5 +14,8 @@
   "license": "MIT",
   "devDependencies": {
     "aws-serverless-express": "^3.3.8"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
