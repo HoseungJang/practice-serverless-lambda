@@ -13,7 +13,8 @@
   "author": "HoseungJang",
   "license": "MIT",
   "devDependencies": {
-    "@types/aws-lambda": "^8.10.56"
+    "@types/aws-lambda": "^8.10.56",
+    "serverless-plugin-typescript": "^1.1.9"
   },
   "dependencies": {
     "aws-serverless-express": "^3.3.8",
