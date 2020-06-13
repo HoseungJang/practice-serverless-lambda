@@ -6,6 +6,9 @@ provider:
   apiName: express-api
   region: ap-northeast-2
 
+plugins:
+  - serverless-plugin-typescript
+
 functions:
   api:
     handler: handler.api
