@@ -9,6 +9,7 @@
   "author": "HoseungJang",
   "license": "MIT",
   "devDependencies": {
-    "@types/aws-lambda": "^8.10.56"
+    "@types/aws-lambda": "^8.10.56",
+    "typescript": "^3.9.5"
   }
 }
