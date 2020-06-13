@@ -12,7 +12,9 @@
   },
   "author": "HoseungJang",
   "license": "MIT",
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.56"
+  },
   "dependencies": {
     "aws-serverless-express": "^3.3.8",
     "express": "^4.17.1"
