@@ -15,5 +15,5 @@ functions:
     name: typescript
     events:
       - http:
-          path: hello
+          path: hello/{proxy+}
           method: get
