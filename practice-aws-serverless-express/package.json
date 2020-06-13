@@ -1,5 +1,5 @@
 {
-  "name": "practice-serverless-typescript-lambda",
+  "name": "practice-aws-serverless-express",
   "version": "1.0.0",
   "description": "",
   "main": "handler.js",
