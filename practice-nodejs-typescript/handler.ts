@@ -9,4 +9,4 @@ const hello: Handler = async (event: APIGatewayProxyEvent): Promise<APIGatewayPr
     };
 };
 
-export default hello;
+export { hello };
